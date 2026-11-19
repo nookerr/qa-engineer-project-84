@@ -1,2 +1,10 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/nookerr/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/nookerr/qa-engineer-project-84/actions)
+## О проекте
+
+Учебный проект по ручному тестированию интернет-магазина. 
+
+В рамках работы над проектом были выполнены:
+- анализ и классификация требований (`requirements.yml`);
+- проектирование тестовых сценариев (`test-cases.yml`);
+- проведение функционального, UI/UX и кроссбраузерного тестирования (`testing-report.yml`);
+- оформление баг-репортов по найденным дефектам (`bugreports.yml`);
+- регрессионное тестирование приложения (`regress-report.yml`).
