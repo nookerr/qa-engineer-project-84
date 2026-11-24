@@ -25,6 +25,10 @@ test-cases:
     status: fail
 
   - summary: |
+      Валидация отрицательных значений в полях фильтрации по цене
+    status: fail
+
+  - summary: |
       Успешная фильтрация товаров по наличию
     status: fail
 
